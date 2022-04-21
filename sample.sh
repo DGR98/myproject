@@ -1,5 +1,4 @@
-echo"printing 20 lines"
-for i in `seq 20`
-
+echo "printing 10 lines"
+for i in `seq 10`
 
 
