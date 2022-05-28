@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: nginx-container
-          image: gautham1999/project.img
+          image: gautham1999/project5.img
           ports:
           - containerPort: 80
 -------------------------------------------------------------------------------------
