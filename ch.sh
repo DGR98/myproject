@@ -1,2 +1,2 @@
 #!/bin/bash
-sed "s/tagVersion/$1/g" *.yml > deployment.yml
+sed "s/tagVersion/$1/g" deployment.yml > deployment_auto.yml
