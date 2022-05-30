@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: nginx-container
-          image: gautham1999/project:v1
+          image: gautham1999/project:tagVersion
           ports:
           - containerPort: 8080
