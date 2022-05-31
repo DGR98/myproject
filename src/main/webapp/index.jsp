@@ -93,7 +93,7 @@
 					has to choose Chef or Puppet.</p>
 			</div>
 			<div id="tabs-4">
-				<p>Motorola</p>
+				<p>Android</p>
 				<p>Apple</p>
 			</div>
 		</div>
@@ -104,5 +104,4 @@
 		<footer>@ 2020 DGR Solution Technologies. All rights Reserved.</footer>
 	</div>
 
-</body>
-</html>
+</body></html>
