@@ -28,7 +28,7 @@
 
 		<header>
 			<h1>DGR Solutions & Cloud Learning Platform</h1> 
-			<h4>Contact: +91-94922 86026 Email: dtor0087@gmail.com Address: road no:4,near pista house,kompally,hyderabad,pin:500090</h4> 
+			<h4>Contact: +91-94922 86026,98480 70333 Email: dtor0087@gmail.com Address: road no:4,near pista house,kompally,hyderabad,pin:500090</h4> 
 		</header>
 
 		<div id="tabs">
