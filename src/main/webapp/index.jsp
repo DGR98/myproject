@@ -33,7 +33,7 @@
 
 		<div id="tabs">
 			<ul>
-			<li><a href="#tabs-1">DevOps</a></li>
+			<li><a href="#tabs-1">DEVOPS</a></li>
 				<li><a href="#tabs-2">Aws</a></li>
 				<li><a href="#tabs-3">Cloud Platform</a></li>
 				<li><a href="#tabs-4">Azure Cloud</a></li>
